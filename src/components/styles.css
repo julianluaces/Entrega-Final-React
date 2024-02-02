@@ -1,0 +1,43 @@
+.navbar-contenedor {
+    background-color: #9292ee;
+}
+
+.item-count {
+
+    display: flex;
+    padding: 1rem;
+    justify-content: center;
+    align-items: baseline;
+    gap: 1rem;
+
+
+}
+
+.item-detalle{
+
+    display: flex;
+    justify-content: center;
+    margin: 4rem;
+}
+
+.greeting {
+
+    display: flex;
+    justify-content: center;
+    padding: 3rem;
+    background-color: aliceblue;
+}
+
+.footer {
+    
+    background-color: #9292ee;
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.producto {
+
+    margin: 1rem;
+}
+
